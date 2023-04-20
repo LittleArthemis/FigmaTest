@@ -1,0 +1,12 @@
+[
+  {
+    appName: 'Simple app',
+    loginText: 'Login to your Simple app account',
+    loginBtnText: 'Continue',
+    forgotPassBtnText: 'Forgot password',
+    registerBtnText: 'Register',
+    homeTitle: 'Home',
+    homeSubtitle: 'Lorem ipsum',
+    state: ['success', 'failed']
+  }
+]
