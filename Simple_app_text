@@ -1,9 +1,9 @@
 [
  {
-  "Title":"Simple beautiful app ",
-  "LoginText":"Login into your Simple app account test 2", 
-  "LoginBtn":"Login",
-  "RegisterBtn":"Register"
+  "Title":"Simple beautiful app test 3 ",
+  "LoginText":"Login into your Simple app account test 3", 
+  "LoginBtn":"Login into app",
+  "RegisterBtn":"Register test"
  }, 
  {
   "HpTitle":"Home test 2",
