@@ -1,12 +1,12 @@
 [
  {
-  "Title":"Simple app",
-  "LoginText":"Login into your Simple app account", 
-  "LoginBtn":"Continue",
+  "Title":"Simple beautiful app ",
+  "LoginText":"Login into your Simple app account test 2", 
+  "LoginBtn":"Login",
   "RegisterBtn":"Register"
  }, 
  {
-  "HpTitle":"Home",
+  "HpTitle":"Home test 2",
   "HpSubtitle":"Lorem ipsum"
  }
 ]
